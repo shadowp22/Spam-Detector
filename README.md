@@ -46,6 +46,12 @@ Check out Spam-Detector in action:
 - **Spam Prediction(Light Mode)**:  
   <img src="screenshots/spam_prediction.png" alt="Spam Prediction(Light Mode)">
 
+## Download Executable
+
+For users who just want to use the program without running the code, download the standalone executable here:
+
+[![Download Exe](https://img.shields.io/badge/Download-Exe-blue?style=for-the-badge&logo=windows)](https://github.com/AliAminiCode/Spam-Detector/releases/tag/exe-v1.0)
+
 ## Contribute
 Found a bug? Report it at [https://github.com/AliAminiCode/Spam-Detector/issues](https://github.com/AliAminiCode/Spam-Detector/issues).  
 Developed by [Ali Amini](mailto:aliamini9728@gmail.com).  
