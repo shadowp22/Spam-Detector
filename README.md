@@ -48,7 +48,7 @@ Check out Spam-Detector in action:
 
 ## Download Executable
 
-For users who just want to use the program without running the code, download the standalone executable here:
+Try the standalone executable, which runs completely offline without needing an internet connection: exe-v1.0 release:
 
 [![Download Exe](https://img.shields.io/badge/Download-Exe-blue?style=for-the-badge&logo=windows)](https://github.com/AliAminiCode/Spam-Detector/releases/tag/exe-v1.0)
 
