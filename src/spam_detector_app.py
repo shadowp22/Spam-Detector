@@ -1,4 +1,4 @@
-# Author: Ali Amini |----> aliamini9728@gmail.com
+# Author: Ali Amini |----> GitHub: https://github.com/AliAminiCode
 
 import flet as ft
 import joblib
